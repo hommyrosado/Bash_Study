@@ -1,0 +1,7 @@
+total 10
+-rw-r--r-- 1 hommy 197609   44 Aug 23 19:51 ERRORFILE
+-rw-r--r-- 1 hommy 197609    4 Aug 23 19:51 FILE
+-rwxr-xr-x 1 hommy 197609 1142 Aug 23 19:21 hw.sh*
+-rw-r--r-- 1 hommy 197609    0 Aug 23 20:09 input.txt
+-rw-r--r-- 1 hommy 197609    0 Aug 23 19:59 output.txt
+-rwxr-xr-x 1 hommy 197609  807 Aug 23 20:12 report.sh*
