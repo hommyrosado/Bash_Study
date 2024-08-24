@@ -51,4 +51,7 @@ printf "\101: Octal 'A'\n"
 printf "\x41: Hexadecimal 'A'\n"
 
 
+#Examples of Redirection
+printf '%s\n%v\n' OK? Oops! > FILE 2> ERRORFILE
+printf '%s\n%v\n' OK? Oops! > FILE 2>&1
 

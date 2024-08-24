@@ -1,0 +1,85 @@
+Week 1
+URL: https://library-books24x7-com.ezproxy.umgc.edu/toc.aspx?site=VGX8U&bookID=69820
+
+
+Weekly Learning Objectives:
+[ ] - Review This interactive eBook contains your learning resources for the week.
+
+All of your videos and readings for this week are on the following pages. 
+Be sure to scroll down to the bottom of each page to access all assigned 
+videos and readings.
+
+Course Textbook
+The Essentials of Computer Organization and Architecture, Fourth Edition
+by Linda Null and Julia Lobur
+
+Table of Contents
+[ ] - Page 2: Introduction
+
+[ ] - Page 3: Data Representation in Computer Systems
+
+[ ] - Page 4: Computer Arithmetic
+
+
+[ ] - Discussion-Number Conversions and Binary Addition
+
+[ ] - Homework 1
+
+[ ] - Self Assessment Directions
+
+Chapter 1: Introduction
+[ ] - 1.1: Overview
+[ ] - 
+[ ] - 1.2: The Main Components of a Computer
+[ ] - 
+[ ] - 1.3: An Example System — Wading through the Jargon
+[ ] - 
+[ ] - 1.4: Standards Organizations
+[ ] - 
+[ ] - 1.5: Historical Development
+[ ] - 
+[ ] - 1.6: The Computer Level Hierarchy
+[ ] - 
+[ ] - 1.7: The Von Neumann Model
+[ ] - 
+[ ] - 1.8: Non–Von Neumann Models
+[ ] - 
+[ ] - 1.9: Chapter Summary
+[ ] - 
+[ ] - 1.10: Further Reading
+[ ] - 
+[ ] - References
+[ ] - 
+[ ] - Exercises
+[ ] - 
+Data Representation in Computer Systems
+URL: http://ezproxy.umgc.edu/login?url=http://library.books24x7.com.ezproxy.umgc.edu/library.asp?%5EB&bookID=69820
+
+[ ] - Introduction
+[ ] - 
+[ ] - Positional Numbering Systems
+[ ] - 
+[ ] - Converting Between Bases
+[ ] - 
+[ ] - Signed Integer Representation
+[ ] - 
+[ ] - Floating-Point Representation
+[ ] - 
+[ ] - Character Codes
+[ ] - 
+[ ] - Codes For Data Recording And Transmission
+[ ] - 
+[ ] - Error Detection And Correction
+[ ] - 
+[ ] - Chapter Summary
+
+[ ] - Further Reading
+[ ] - 
+[ ] - References
+[ ] - 
+[ ] - Review Of Essential Terms And Concepts
+[ ] - 
+[ ] - Exercises
+
+Computer Arithmetic Sub-Module
+URL: https://leocontent.umgc.edu/content/umuc/tus/cmis/cmis310/2228/modules/m1-module-1/s3-commentary.html?ou=940975
